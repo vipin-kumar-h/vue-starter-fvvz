@@ -2,7 +2,7 @@ version: 1.0
 jobs:
   hello:
     steps:
-      - echo "Hello"
+      - echo "Hello!!"
   world:
     steps:
       - echo "World!!"
